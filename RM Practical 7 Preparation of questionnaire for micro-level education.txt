@@ -1,0 +1,89 @@
+\documentclass[12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in} 
+
+\title{Educational Survey Questionnaire}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{ Introduction}
+Thank you for participating in this survey. Your responses will help us understand educational needs and improve our services.
+
+\section {Demographic Information}
+\begin{enumerate}
+\item \textbf{Age:)
+\begin {itemize}
+
+
+
+
+
+\item {[ ]} Under 18
+Vitem {[ ]} 18-24
+\item {[ ]} 25-34
+\item {[ ]} 35-44
+\item {[ ]} 45-54
+\item {[ ]} 55+
+\end{itemize}
+
+\item \textbf{Gender:}
+\begin{itemize}
+\item {[ ]) Male
+\item {[ ]} Female
+item {[ ]} Non-binary
+\item {[ ]} Prefer not to say 
+\end{itemize}
+
+\item \textbf{Current Level of Education:}
+\begin{itemize}
+item {[ ]} High School 
+\item {[ ]} Undergraduate 
+\item {[ ]} Graduate
+\item {[ ]} Postgraduate
+\item {[ ]} Other:
+\end{itemize}
+\end{enumerate}
+
+
+
+\section{Educational Experience}
+\begin{enumerate}
+\item \textbf{How satisfied are you with your current educational experience?} 
+\begin{itemize}
+\item {[ ]} Very Satisfied
+\item {[ ]} Satisfied
+\item {[ ]} Neutral
+\item {[ ]} Dissatisfied
+\item {[ ]} Very Dissatisfied
+\end {itemize}
+
+\item \textbf{What is the most important factor for you in choosing an educational program?}
+\begin{itemize}
+\item {[ ]} Quality of the curriculum
+\item {[ ]} Reputation of the institution
+\item {[ ]} Cost
+\item {[ ]} Location
+\item {[ ]} Other:
+\end{itemize}
+\item \textbf{What improvements would you suggest for your educational institution?} 
+\begin{itemize}
+\item {[ ]} Better facilities
+\item {[ ]} More experienced faculty
+
+
+
+\item {[ ]} Updated curriculum
+\item {[ ]} Improved support services
+\item {[ ]} Other:
+\end{itemize}
+\end{enumerate}
+\section {Additional Comments}
+Please provide any additional comments or suggestions you may have:
+\end{document}

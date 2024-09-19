@@ -1,0 +1,63 @@
+\documentclass[12pt](article}
+\usepackage [utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage amssymb}
+\usepackage{graphicx}
+\usepackage(hyperref)
+\usepackage(cite}
+\usepackage {geometry}
+\usepackage(fancyhdr}
+\geometry{a4paper, margin=1in}
+\fancypagestyle{plain}{
+\fancyhf{}
+\fancyhead[L]{Review Article)}
+\fancyhead[R]{\today}
+\fancyfoot[C]{\thepage}
+}
+\title{Title of the Review Article}
+\author{Author Name \\ Affiliation \\ Email}
+\date{\today}
+\begin{document}
+\maketitle
+\begin{abstract}
+  
+This is the abstract of the review article. It should provide a brief summary of the main points of the
+review, including the objectives, methods, results, and conclusions.
+
+\end{abstract}
+\section {Introduction}
+
+The introduction section should provide background information on the topic of the review. Discuss the 
+importance of the topic and the scope of the review. 
+
+\section {Methods}
+
+In this section, describe the methodology used for the review. This may include the criteria for selecting
+articles, databases searched, and any other relevant details.
+
+\section {Results}
+
+Present the main findings from the literature reviewed. This section can be divided into subsections if necessary.
+
+\subsection{Subsection Title}
+
+Details of specific results or studies related to a particular aspect of the review.
+
+\section {Discussion}
+
+Discuss the implications of the findings, compare and contrast different studies, and address any gaps or
+inconsistencies in the literature.
+
+\section {Conclusion}
+
+Summarize the main points of the review and suggest future directions for research.
+
+\section{Acknowledgments}
+
+Acknowledge any assistance or funding sources that contributed to the review.
+
+\section {References}
+\bibliographystyle{plain}
+\bibliography{references}
+\end{document}

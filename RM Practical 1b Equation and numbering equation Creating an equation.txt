@@ -1,0 +1,42 @@
+\documentclass[12pt]{article}
+\usepackage{amsmath}
+
+\begin{document}
+\section{Equation amd Numbering Equation}
+\subsection{Creating an equation}
+\begin{equation}
+    a^2+b^2=c^2
+\end{equation}
+
+\subsection{Writing multiple equations}
+\begin{equation}
+    (a+b)^2=a^2+2ab+b^2
+\end{equation}
+\begin{equation}
+    (a+b)^2=a^2-2ab+b^2
+\end{equation}
+
+\subsection{Aligning multiple equations}
+\begin{align}
+    sin^2\theta+cos^2\theta=1\\
+    1+tan^2\theta=sec^2\theta\\
+    tan\theta=\frac{sin\theta}{cos\theta}
+\end{align}
+
+\subsection{Creating matrices}
+\[
+\begin{bmatrix}
+1&2&3\\
+4&5&6\\
+7&8&9
+\end{bmatrix}
+\]
+
+\subsection{Cross Referencing with lable and ref command}
+\begin{equation}
+    \label{eq:speed}
+    s=\frac{d}{t}
+\end{equation}
+As we see in Equation \ref{eq:speed}, speed equals to distance covered per unit time.
+
+\end{document

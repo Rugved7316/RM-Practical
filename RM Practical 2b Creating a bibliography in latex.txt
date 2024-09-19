@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage{url}
+\begin{document}
+\title{Bibliography creating in Latex}
+\maketitle
+
+\section{Introduction}
+This is document to demonstrate manually created bibliography in latex.\\\\
+Referencing a book \cite{bookreferenace}.\\
+Referencing a conference paper \cite{conferencereferenace}.\\
+Referencing a website \cite{websitereferenace}.\\
+Referencing a article \cite{articlereferenace}.\\
+
+\section{Conclusion}
+The conclusion will be written here.
+
+\begin{thebibliography}{10}
+
+\bibitem{bookreference}
+Kopka,H.and Daly,P.W., 2003.
+\textit{Guide to LATEX.}
+Pearson Education.
+
+\bibitem{conferencereference}
+Alice Johnson,
+"Efficient LaTex Compilation"
+in \textit{Proceedings of the 10th LaTex Conference},2020, pp.67-78.
+
+Pearson Education.
+
+\bibitem{websitereference}
+Michael Brown,
+"LaTex Resources Online,"
+Available: \url{http://www.javatpoint.com}, Accessed: July 15,2024.
+
+\bibitem{articlereference}
+Jane Smith,
+"Advanced LaTeX Techniques,"
+\textit{Journal of LaTeX Studies}, vol. 17, no. 10, pp. 115-150, 2024.
+\end{thebibliography}
+\end{document}
+
+\end{document}

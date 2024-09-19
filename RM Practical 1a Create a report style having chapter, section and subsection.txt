@@ -1,0 +1,36 @@
+\documentclass[a4paper, 12pt]{report}
+\begin{document}
+\title{\textbf{Heart Disease Prediction using ML}}
+\author{MR. RUGVED AMBRE}
+\date{\today}
+\maketitle
+
+\tableofcontents
+
+\chapter{Introduction}
+\section{Background}
+Cardiovascular diseases (CVDs) remain a leading cause of mortality worldwide, with
+factors such as lifestyle choices, genetics, and socio-economic status contributing to their prevalence. Early detection and prediction of heart diseases play a crucial role in reducing morbidity and mortality rates associated with CVDs.
+\section{objective}
+The objective of this project is to develop and evaluate machine learning models capable of predicting the likelihood of heart disease based on various risk factors. By achieving this, we aim to contribute to early detection efforts and improve healthcare outcomes related to cardiovascular health.
+\chapter{literature review}
+\section{cardiovascular diseases and risk factor}
+Cardiovascular diseases encompass a range of conditions affecting the heart and blood vessels, including coronary artery disease, stroke, and heart failure. Key risk factors identified in the literature include age, gender, hypertension, hyperlipidemia, diabetes
+mellitus, smoking, and family history.
+\section{predictive modeling in cardiovascular disease}
+\chapter{methodology}
+\section{data collection and preprocessing}
+The dataset used in this study consists of anonymized patient data sourced from Kaggle.
+Data preprocessing steps include handling missing values, encoding categorical variables
+\section{features selection}
+The dataset used in this study consists of anonymized patient data sourced from Kaggle.
+Data preprocessing steps include handling missing values, encoding categorical variables
+\chapter{Results}
+\section{Performance metries}
+\subsection{Overall performance}
+\section{model comparison}
+\chapter{conclusion}
+In conclusion, this project demonstrates the feasibility and efficacy of machine learning in
+predicting heart disease risk based on patient data. The developed models offer valuable insights for healthcare providers to implement preventive strategies and improve patient
+outcomes in cardiovascular health.
+\end{document}

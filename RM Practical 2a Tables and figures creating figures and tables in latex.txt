@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+\title{Table and figures in Latex}
+\maketitle
+\section{Table in Latex}
+\begin{table}[h!]
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+Roll No. & FName & LName \\
+\hline
+1 & Divya & More \\
+2 & Gavri & Patil \\
+3 & Aanchal & Yadhav \\
+4 & Kreepa & kadu \\
+\hline
+\end{tabular}
+\end{center}
+\caption{Student details}
+\label{tab:tab1}
+\end{table}
+\section{Figures in Latex}
+
+\begin{figure}[h!]
+\centering
+\includegraphics[width=0.7\textwidth]{prism.jpg}
+\caption{A prism}
+\label{fig:fig1}
+\end{figure}
+
+We can refer to Table \ref{tab:tab1} and Figure \ref{fig:fig1} in the document.
+
+ 
+\end{document}
