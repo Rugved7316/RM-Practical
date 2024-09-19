@@ -1,0 +1,12 @@
+Steps:
+1. Go to the Mendeley website and navigate to the "Web Importer" section.
+
+2. Install the Mendeley Web Importer by clicking on "Get Web Importer for Chrome".
+
+3. Sign in to Web Importer.
+
+4. Search the document to cite. Click on the web importer extension.
+
+5. Select the desired library to add citation. Click on the "Add" button to add the reference into the library.
+
+6. Sync the "Mendeley Desktop" to check whether the reference is added in library or not.

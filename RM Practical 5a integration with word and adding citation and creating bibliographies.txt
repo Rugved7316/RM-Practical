@@ -1,0 +1,10 @@
+Steps:
+1. Download and install Mendeley Desktop from official website
+
+2. Open Mendeley Desktop. Go to the "Tools" menu and select "Install MS Word Plugin".
+
+3. Open MS Word. Go to the "References" tab, find the "Mendeley Cite" icon.
+
+4. In the Mendeley Cite sidebar find the reference to cote from Mendeley library. Select the reference and click on "Ok".
+
+5. To add the bibliography, go to the references and select "Insert Bibliography."

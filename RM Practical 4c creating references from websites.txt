@@ -1,0 +1,5 @@
+Steps:
+1. Install the zotero app browser connector. 
+2. ⁠Visit the webpage to cite. 
+3. ⁠Click the zotero connector icon in browser’s toolbar. 
+4. ⁠select the collection to save the reference and zotero will automatically capture the citation details.

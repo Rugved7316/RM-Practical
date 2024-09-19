@@ -1,0 +1,6 @@
+Steps:
+1. Open Mendeley Desktop and sign in with email.
+
+2. Click on the "Create Folder". Name the folder to categorize references.
+
+3. Drag and drop references into these folders.

@@ -1,0 +1,10 @@
+Steps:
+1. Launch EndNote on the computer. 
+
+2. Go to "Google Scholar" and search for the reference.
+
+3. Select the desired reference.
+
+4. Choose EndNote as the export format. It might be labeled as "Export," "Cite,"
+
+5. Open the downloaded file, and EndNote will import the reference into library automatically.

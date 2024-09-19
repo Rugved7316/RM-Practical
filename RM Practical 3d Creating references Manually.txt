@@ -1,0 +1,13 @@
+Steps:
+1. Launch EndNote on the computer.
+
+2. Open the library where want to add the reference.
+
+3. Click on References in the menu. 
+
+4. select new reference. 
+
+
+5. Enter Reference Details and Choose the reference type "Web Page" from the drop-down menu.
+
+6. Enter the details & Click on Save:

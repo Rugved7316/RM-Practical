@@ -1,0 +1,5 @@
+Steps:
+1. In zotero, select the collection to add citation. 
+2. ⁠Click the ‘New Item’ icon. 
+3. ⁠Choose the type of reference like book, article, etc. 
+4. ⁠input the details such as title, author, publication date, etc.

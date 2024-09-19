@@ -1,0 +1,4 @@
+Steps:
+1. Click the dropdown of "Add" and select the "Add Entry Manually".
+
+2. Enter the citation details and click on save and the reference will be automatically added in the selected library.

@@ -1,0 +1,6 @@
+Steps:
+1. Launch EndNote on the computer.
+
+2. Click on "File" in the menu bar.
+
+3. Select “New…” to create a new library.

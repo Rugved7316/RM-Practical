@@ -1,0 +1,20 @@
+Steps:
+1. Download and install Zotero from official website.
+
+2. Open Microsoft Word to confirm that the Zotero tab has been added or not.
+
+3. ﻿﻿﻿If Zotero tab has been not added automatically then open Zotero and go to the 'Edit' menu, then select 'Settings'.
+
+4. ﻿﻿﻿Under the 'Cite' tab, under the Word Processors section click on Reinstall Microsoft Word Add-in.
+
+5. ﻿﻿﻿Open the Microsoft word and again look for Zotero tab in the ribbon.
+
+6. ﻿﻿﻿In Word, place the cursor to add citation.
+
+7. ﻿﻿﻿Click the 'Zotero' tab and click on the 'Add/Edit Citation'.
+
+8. In the Zotero search box, type keywords, titles or authors related to the reference.
+
+9. Select the reference and click 'Insert'.
+
+10. To generate the bibliography, click 'Add/Edit Bibliography'.

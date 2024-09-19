@@ -1,0 +1,14 @@
+Steps:
+1. Download and install EndNote from official website.
+
+2. Open the Microsoft word and look for EndNote tab in the ribbon.
+
+3. Open the word document to add citations and place the cursor to insert citation.
+
+4. Click on the "EndNote tab". Click on"Insert Citation" and select "Find Citation".
+
+5. In the EndNote search box, type keywords, titles, or authors related to the reference.
+
+6. Select the reference from the search results and click "Insert."
+
+7. Click "Bibliography" and select "Configure Bibliography" and Choose your desired citation style
